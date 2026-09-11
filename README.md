@@ -1,4 +1,4 @@
-# Arena Elemental - versão corrigida
+# Arena Elemental
 
 Projeto Java Swing para a disciplina de Programação Orientada a Objetos.
 
